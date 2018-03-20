@@ -1,0 +1,22 @@
+{
+  "name": "humanize-graphql-response",
+  "version": "1.0.0",
+  "description": "Clean up GraphQL repsonse objects by flattening nodes and edges into object arrays",
+  "main": "index.js",
+  "repository": "https://github.com/zeke/graphql-humanized-response",
+  "author": "zeke",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2",
+    "standard": "^11.0.1"
+  },
+  "scripts": {
+    "test": "jest && standard --fix",
+    "watch": "jest --watch --notify --notifyMode=change --coverage"
+  },
+  "standard": {
+    "env": {
+      "jest": true
+    }
+  }
+}

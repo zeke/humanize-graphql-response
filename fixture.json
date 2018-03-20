@@ -1,0 +1,1523 @@
+{
+  "data": {
+    "repository": {
+      "nameWithOwner": "electron/electron",
+      "releases": {
+        "edges": [
+          {
+            "node": {
+              "name": "electron v1.8.4",
+              "createdAt": "2018-03-16T18:44:17Z",
+              "isDraft": false,
+              "isPrerelease": false,
+              "publishedAt": "2018-03-16T18:48:53Z",
+              "tag": {
+                "name": "v1.8.4"
+              },
+              "releaseAssets": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-linux-arm64.zip",
+                      "downloadCount": 203,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-linux-arm64.zip",
+                      "size": 45362922
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-linux-arm64-symbols.zip",
+                      "downloadCount": 23,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-linux-arm64-symbols.zip",
+                      "size": 39134330
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.4-linux-arm64.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/ffmpeg-v1.8.4-linux-arm64.zip",
+                      "size": 934201
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-linux-ia32.zip",
+                      "downloadCount": 358,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-linux-ia32.zip",
+                      "size": 49325634
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-linux-ia32-symbols.zip",
+                      "downloadCount": 24,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-linux-ia32-symbols.zip",
+                      "size": 46285175
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.4-linux-ia32.zip",
+                      "downloadCount": 27,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/ffmpeg-v1.8.4-linux-ia32.zip",
+                      "size": 1001365
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-linux-mips64el.zip",
+                      "downloadCount": 171,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-linux-mips64el.zip",
+                      "size": 59777834
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.4-linux-mips64el.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/ffmpeg-v1.8.4-linux-mips64el.zip",
+                      "size": 965871
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-linux-armv7l.zip",
+                      "downloadCount": 238,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-linux-armv7l.zip",
+                      "size": 43735413
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-linux-arm.zip",
+                      "downloadCount": 229,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-linux-arm.zip",
+                      "size": 43735413
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-linux-armv7l-symbols.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-linux-armv7l-symbols.zip",
+                      "size": 44873959
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-linux-arm-symbols.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-linux-arm-symbols.zip",
+                      "size": 44873959
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.4-linux-armv7l.zip",
+                      "downloadCount": 27,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/ffmpeg-v1.8.4-linux-armv7l.zip",
+                      "size": 915084
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.4-linux-arm.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/ffmpeg-v1.8.4-linux-arm.zip",
+                      "size": 915084
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-darwin-x64.zip",
+                      "downloadCount": 8434,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-darwin-x64.zip",
+                      "size": 48340485
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-darwin-x64-symbols.zip",
+                      "downloadCount": 31,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-darwin-x64-symbols.zip",
+                      "size": 58770821
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-darwin-x64-dsym.zip",
+                      "downloadCount": 38,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-darwin-x64-dsym.zip",
+                      "size": 470921244
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.4-darwin-x64.zip",
+                      "downloadCount": 29,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/ffmpeg-v1.8.4-darwin-x64.zip",
+                      "size": 1010084
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-mas-x64.zip",
+                      "downloadCount": 228,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-mas-x64.zip",
+                      "size": 47379893
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-mas-x64-symbols.zip",
+                      "downloadCount": 24,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-mas-x64-symbols.zip",
+                      "size": 58653858
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-api.json",
+                      "downloadCount": 634,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-api.json",
+                      "size": 660108
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron.d.ts",
+                      "downloadCount": 39,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron.d.ts",
+                      "size": 355497
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-mas-x64-dsym.zip",
+                      "downloadCount": 22,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-mas-x64-dsym.zip",
+                      "size": 467418349
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.4-mas-x64.zip",
+                      "downloadCount": 26,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/ffmpeg-v1.8.4-mas-x64.zip",
+                      "size": 1010083
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-linux-x64.zip",
+                      "downloadCount": 16539,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-linux-x64.zip",
+                      "size": 47194297
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-linux-x64-symbols.zip",
+                      "downloadCount": 27,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-linux-x64-symbols.zip",
+                      "size": 49910172
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.4-linux-x64.zip",
+                      "downloadCount": 40,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/ffmpeg-v1.8.4-linux-x64.zip",
+                      "size": 978991
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-win32-ia32.zip",
+                      "downloadCount": 1948,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-win32-ia32.zip",
+                      "size": 41989306
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-win32-ia32-symbols.zip",
+                      "downloadCount": 32,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-win32-ia32-symbols.zip",
+                      "size": 29531219
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-win32-ia32-pdb.zip",
+                      "downloadCount": 29,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-win32-ia32-pdb.zip",
+                      "size": 315336288
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.4-win32-ia32.zip",
+                      "downloadCount": 32,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/ffmpeg-v1.8.4-win32-ia32.zip",
+                      "size": 834198
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-win32-x64.zip",
+                      "downloadCount": 10068,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-win32-x64.zip",
+                      "size": 50314296
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-win32-x64-symbols.zip",
+                      "downloadCount": 36,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-win32-x64-symbols.zip",
+                      "size": 22599619
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.4-win32-x64-pdb.zip",
+                      "downloadCount": 64,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/electron-v1.8.4-win32-x64-pdb.zip",
+                      "size": 314662361
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.4-win32-x64.zip",
+                      "downloadCount": 47,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/ffmpeg-v1.8.4-win32-x64.zip",
+                      "size": 850867
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "SHASUMS256.txt",
+                      "downloadCount": 30140,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.4/SHASUMS256.txt",
+                      "size": 3430
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "electron v1.7.13",
+              "createdAt": "2018-03-15T14:28:46Z",
+              "isDraft": false,
+              "isPrerelease": false,
+              "publishedAt": "2018-03-15T16:10:27Z",
+              "tag": {
+                "name": "v1.7.13"
+              },
+              "releaseAssets": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-linux-x64.zip",
+                      "downloadCount": 347,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-linux-x64.zip",
+                      "size": 51205785
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-linux-x64-symbols.zip",
+                      "downloadCount": 27,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-linux-x64-symbols.zip",
+                      "size": 53414961
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.7.13-linux-x64.zip",
+                      "downloadCount": 27,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/ffmpeg-v1.7.13-linux-x64.zip",
+                      "size": 978482
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-linux-armv7l.zip",
+                      "downloadCount": 40,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-linux-armv7l.zip",
+                      "size": 44757530
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-linux-arm.zip",
+                      "downloadCount": 70,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-linux-arm.zip",
+                      "size": 44757530
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-linux-armv7l-symbols.zip",
+                      "downloadCount": 26,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-linux-armv7l-symbols.zip",
+                      "size": 43707056
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-linux-arm-symbols.zip",
+                      "downloadCount": 26,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-linux-arm-symbols.zip",
+                      "size": 43707056
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.7.13-linux-armv7l.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/ffmpeg-v1.7.13-linux-armv7l.zip",
+                      "size": 913412
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.7.13-linux-arm.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/ffmpeg-v1.7.13-linux-arm.zip",
+                      "size": 913412
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-linux-ia32.zip",
+                      "downloadCount": 40,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-linux-ia32.zip",
+                      "size": 52266189
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-linux-ia32-symbols.zip",
+                      "downloadCount": 26,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-linux-ia32-symbols.zip",
+                      "size": 48074431
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.7.13-linux-ia32.zip",
+                      "downloadCount": 26,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/ffmpeg-v1.7.13-linux-ia32.zip",
+                      "size": 1035021
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-win32-ia32.zip",
+                      "downloadCount": 129,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-win32-ia32.zip",
+                      "size": 44448110
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-win32-ia32-symbols.zip",
+                      "downloadCount": 56,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-win32-ia32-symbols.zip",
+                      "size": 44383990
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-win32-ia32-pdb.zip",
+                      "downloadCount": 52,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-win32-ia32-pdb.zip",
+                      "size": 352027536
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.7.13-win32-ia32.zip",
+                      "downloadCount": 26,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/ffmpeg-v1.7.13-win32-ia32.zip",
+                      "size": 830091
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-win32-x64.zip",
+                      "downloadCount": 450,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-win32-x64.zip",
+                      "size": 53913003
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-darwin-x64.zip",
+                      "downloadCount": 283,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-darwin-x64.zip",
+                      "size": 48421837
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-darwin-x64-symbols.zip",
+                      "downloadCount": 27,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-darwin-x64-symbols.zip",
+                      "size": 55007098
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-win32-x64-symbols.zip",
+                      "downloadCount": 53,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-win32-x64-symbols.zip",
+                      "size": 32043699
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-darwin-x64-dsym.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-darwin-x64-dsym.zip",
+                      "size": 441424258
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-win32-x64-pdb.zip",
+                      "downloadCount": 73,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-win32-x64-pdb.zip",
+                      "size": 353700285
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.7.13-win32-x64.zip",
+                      "downloadCount": 27,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/ffmpeg-v1.7.13-win32-x64.zip",
+                      "size": 849098
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.7.13-darwin-x64.zip",
+                      "downloadCount": 26,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/ffmpeg-v1.7.13-darwin-x64.zip",
+                      "size": 1001650
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-mas-x64.zip",
+                      "downloadCount": 39,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-mas-x64.zip",
+                      "size": 47449465
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-mas-x64-symbols.zip",
+                      "downloadCount": 26,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-mas-x64-symbols.zip",
+                      "size": 54907857
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-api.json",
+                      "downloadCount": 32,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-api.json",
+                      "size": 628456
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron.d.ts",
+                      "downloadCount": 30,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron.d.ts",
+                      "size": 329588
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.7.13-mas-x64-dsym.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/electron-v1.7.13-mas-x64-dsym.zip",
+                      "size": 438137397
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.7.13-mas-x64.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/ffmpeg-v1.7.13-mas-x64.zip",
+                      "size": 1001645
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "SHASUMS256.txt",
+                      "downloadCount": 795,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.7.13/SHASUMS256.txt",
+                      "size": 2958
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "electron v2.0.0-beta.4",
+              "createdAt": "2018-03-15T12:55:16Z",
+              "isDraft": false,
+              "isPrerelease": true,
+              "publishedAt": "2018-03-15T17:12:06Z",
+              "tag": {
+                "name": "v2.0.0-beta.4"
+              },
+              "releaseAssets": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-linux-ia32.zip",
+                      "downloadCount": 32,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-linux-ia32.zip",
+                      "size": 51699972
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-linux-ia32-symbols.zip",
+                      "downloadCount": 23,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-linux-ia32-symbols.zip",
+                      "size": 58257616
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-linux-arm64.zip",
+                      "downloadCount": 26,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-linux-arm64.zip",
+                      "size": 47463166
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.4-linux-ia32.zip",
+                      "downloadCount": 27,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/ffmpeg-v2.0.0-beta.4-linux-ia32.zip",
+                      "size": 1009858
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-linux-arm64-symbols.zip",
+                      "downloadCount": 23,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-linux-arm64-symbols.zip",
+                      "size": 41572526
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.4-linux-arm64.zip",
+                      "downloadCount": 24,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/ffmpeg-v2.0.0-beta.4-linux-arm64.zip",
+                      "size": 942626
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-linux-x64.zip",
+                      "downloadCount": 372,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-linux-x64.zip",
+                      "size": 48562113
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-linux-x64-symbols.zip",
+                      "downloadCount": 27,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-linux-x64-symbols.zip",
+                      "size": 53505715
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.4-linux-x64.zip",
+                      "downloadCount": 37,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/ffmpeg-v2.0.0-beta.4-linux-x64.zip",
+                      "size": 987102
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-linux-armv7l.zip",
+                      "downloadCount": 35,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-linux-armv7l.zip",
+                      "size": 45503010
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-linux-arm.zip",
+                      "downloadCount": 36,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-linux-arm.zip",
+                      "size": 45503010
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-linux-armv7l-symbols.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-linux-armv7l-symbols.zip",
+                      "size": 47893995
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-linux-arm-symbols.zip",
+                      "downloadCount": 23,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-linux-arm-symbols.zip",
+                      "size": 47893995
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.4-linux-armv7l.zip",
+                      "downloadCount": 24,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/ffmpeg-v2.0.0-beta.4-linux-armv7l.zip",
+                      "size": 918934
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.4-linux-arm.zip",
+                      "downloadCount": 24,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/ffmpeg-v2.0.0-beta.4-linux-arm.zip",
+                      "size": 918934
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-win32-ia32.zip",
+                      "downloadCount": 191,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-win32-ia32.zip",
+                      "size": 42052153
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-win32-ia32-symbols.zip",
+                      "downloadCount": 58,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-win32-ia32-symbols.zip",
+                      "size": 30314467
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-win32-ia32-pdb.zip",
+                      "downloadCount": 54,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-win32-ia32-pdb.zip",
+                      "size": 302971670
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.4-win32-ia32.zip",
+                      "downloadCount": 29,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/ffmpeg-v2.0.0-beta.4-win32-ia32.zip",
+                      "size": 840990
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-win32-x64.zip",
+                      "downloadCount": 539,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-win32-x64.zip",
+                      "size": 50652899
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-win32-x64-symbols.zip",
+                      "downloadCount": 63,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-win32-x64-symbols.zip",
+                      "size": 23043950
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-win32-x64-pdb.zip",
+                      "downloadCount": 82,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-win32-x64-pdb.zip",
+                      "size": 301624411
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.4-win32-x64.zip",
+                      "downloadCount": 41,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/ffmpeg-v2.0.0-beta.4-win32-x64.zip",
+                      "size": 858374
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-mas-x64.zip",
+                      "downloadCount": 36,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-mas-x64.zip",
+                      "size": 47640877
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-mas-x64-symbols.zip",
+                      "downloadCount": 25,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-mas-x64-symbols.zip",
+                      "size": 60349180
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-mas-x64-dsym.zip",
+                      "downloadCount": 22,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-mas-x64-dsym.zip",
+                      "size": 441881649
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.4-mas-x64.zip",
+                      "downloadCount": 23,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/ffmpeg-v2.0.0-beta.4-mas-x64.zip",
+                      "size": 1020245
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-darwin-x64.zip",
+                      "downloadCount": 353,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-darwin-x64.zip",
+                      "size": 48636311
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-darwin-x64-symbols.zip",
+                      "downloadCount": 37,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-darwin-x64-symbols.zip",
+                      "size": 60462961
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-api.json",
+                      "downloadCount": 56,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-api.json",
+                      "size": 677652
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron.d.ts",
+                      "downloadCount": 30,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron.d.ts",
+                      "size": 365342
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.4-darwin-x64-dsym.zip",
+                      "downloadCount": 37,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/electron-v2.0.0-beta.4-darwin-x64-dsym.zip",
+                      "size": 445664473
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.4-darwin-x64.zip",
+                      "downloadCount": 31,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/ffmpeg-v2.0.0-beta.4-darwin-x64.zip",
+                      "size": 1020244
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "SHASUMS256.txt",
+                      "downloadCount": 939,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.4/SHASUMS256.txt",
+                      "size": 3447
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "electron v2.0.0-beta.3",
+              "createdAt": "2018-03-09T14:15:39Z",
+              "isDraft": false,
+              "isPrerelease": true,
+              "publishedAt": "2018-03-09T16:02:37Z",
+              "tag": {
+                "name": "v2.0.0-beta.3"
+              },
+              "releaseAssets": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-linux-ia32.zip",
+                      "downloadCount": 53,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-linux-ia32.zip",
+                      "size": 51665982
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-linux-ia32-symbols.zip",
+                      "downloadCount": 36,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-linux-ia32-symbols.zip",
+                      "size": 58233410
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.3-linux-ia32.zip",
+                      "downloadCount": 40,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/ffmpeg-v2.0.0-beta.3-linux-ia32.zip",
+                      "size": 1009858
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-linux-arm64.zip",
+                      "downloadCount": 43,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-linux-arm64.zip",
+                      "size": 47477255
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-linux-arm64-symbols.zip",
+                      "downloadCount": 36,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-linux-arm64-symbols.zip",
+                      "size": 41579346
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.3-linux-arm64.zip",
+                      "downloadCount": 36,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/ffmpeg-v2.0.0-beta.3-linux-arm64.zip",
+                      "size": 942626
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-linux-x64.zip",
+                      "downloadCount": 632,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-linux-x64.zip",
+                      "size": 48550363
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-linux-x64-symbols.zip",
+                      "downloadCount": 37,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-linux-x64-symbols.zip",
+                      "size": 53500243
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.3-linux-x64.zip",
+                      "downloadCount": 52,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/ffmpeg-v2.0.0-beta.3-linux-x64.zip",
+                      "size": 987102
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-linux-armv7l.zip",
+                      "downloadCount": 62,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-linux-armv7l.zip",
+                      "size": 45519180
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-linux-arm.zip",
+                      "downloadCount": 72,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-linux-arm.zip",
+                      "size": 45519180
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-linux-armv7l-symbols.zip",
+                      "downloadCount": 37,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-linux-armv7l-symbols.zip",
+                      "size": 47914001
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-linux-arm-symbols.zip",
+                      "downloadCount": 39,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-linux-arm-symbols.zip",
+                      "size": 47914001
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.3-linux-armv7l.zip",
+                      "downloadCount": 36,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/ffmpeg-v2.0.0-beta.3-linux-armv7l.zip",
+                      "size": 918934
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.3-linux-arm.zip",
+                      "downloadCount": 36,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/ffmpeg-v2.0.0-beta.3-linux-arm.zip",
+                      "size": 918934
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-mas-x64.zip",
+                      "downloadCount": 75,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-mas-x64.zip",
+                      "size": 47633464
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-mas-x64-symbols.zip",
+                      "downloadCount": 36,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-mas-x64-symbols.zip",
+                      "size": 60342291
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-mas-x64-dsym.zip",
+                      "downloadCount": 38,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-mas-x64-dsym.zip",
+                      "size": 441853003
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.3-mas-x64.zip",
+                      "downloadCount": 41,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/ffmpeg-v2.0.0-beta.3-mas-x64.zip",
+                      "size": 1020236
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-darwin-x64.zip",
+                      "downloadCount": 614,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-darwin-x64.zip",
+                      "size": 48628244
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-darwin-x64-symbols.zip",
+                      "downloadCount": 53,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-darwin-x64-symbols.zip",
+                      "size": 60456524
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-api.json",
+                      "downloadCount": 95,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-api.json",
+                      "size": 677123
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron.d.ts",
+                      "downloadCount": 49,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron.d.ts",
+                      "size": 365047
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-darwin-x64-dsym.zip",
+                      "downloadCount": 96,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-darwin-x64-dsym.zip",
+                      "size": 445613936
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.3-darwin-x64.zip",
+                      "downloadCount": 56,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/ffmpeg-v2.0.0-beta.3-darwin-x64.zip",
+                      "size": 1020245
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-win32-ia32.zip",
+                      "downloadCount": 418,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-win32-ia32.zip",
+                      "size": 42052553
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-win32-ia32-symbols.zip",
+                      "downloadCount": 82,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-win32-ia32-symbols.zip",
+                      "size": 30309258
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-win32-ia32-pdb.zip",
+                      "downloadCount": 97,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-win32-ia32-pdb.zip",
+                      "size": 302958156
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.3-win32-ia32.zip",
+                      "downloadCount": 44,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/ffmpeg-v2.0.0-beta.3-win32-ia32.zip",
+                      "size": 840993
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-win32-x64.zip",
+                      "downloadCount": 947,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-win32-x64.zip",
+                      "size": 50654026
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-win32-x64-symbols.zip",
+                      "downloadCount": 95,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-win32-x64-symbols.zip",
+                      "size": 23040530
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v2.0.0-beta.3-win32-x64-pdb.zip",
+                      "downloadCount": 98,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/electron-v2.0.0-beta.3-win32-x64-pdb.zip",
+                      "size": 301572851
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v2.0.0-beta.3-win32-x64.zip",
+                      "downloadCount": 64,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/ffmpeg-v2.0.0-beta.3-win32-x64.zip",
+                      "size": 858374
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "SHASUMS256.txt",
+                      "downloadCount": 1659,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v2.0.0-beta.3/SHASUMS256.txt",
+                      "size": 3447
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "electron v1.8.3",
+              "createdAt": "2018-03-06T01:40:10Z",
+              "isDraft": false,
+              "isPrerelease": false,
+              "publishedAt": "2018-03-06T01:44:41Z",
+              "tag": {
+                "name": "v1.8.3"
+              },
+              "releaseAssets": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-linux-arm64.zip",
+                      "downloadCount": 785,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-linux-arm64.zip",
+                      "size": 45375060
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-linux-arm64-symbols.zip",
+                      "downloadCount": 63,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-linux-arm64-symbols.zip",
+                      "size": 39157246
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.3-linux-arm64.zip",
+                      "downloadCount": 62,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/ffmpeg-v1.8.3-linux-arm64.zip",
+                      "size": 934201
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-linux-ia32.zip",
+                      "downloadCount": 1492,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-linux-ia32.zip",
+                      "size": 49320474
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-linux-ia32-symbols.zip",
+                      "downloadCount": 61,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-linux-ia32-symbols.zip",
+                      "size": 46273025
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.3-linux-ia32.zip",
+                      "downloadCount": 63,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/ffmpeg-v1.8.3-linux-ia32.zip",
+                      "size": 1001365
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-linux-armv7l.zip",
+                      "downloadCount": 854,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-linux-armv7l.zip",
+                      "size": 43677116
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-linux-arm.zip",
+                      "downloadCount": 628,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-linux-arm.zip",
+                      "size": 43677116
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-linux-armv7l-symbols.zip",
+                      "downloadCount": 66,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-linux-armv7l-symbols.zip",
+                      "size": 44848393
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-linux-arm-symbols.zip",
+                      "downloadCount": 65,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-linux-arm-symbols.zip",
+                      "size": 44848393
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.3-linux-armv7l.zip",
+                      "downloadCount": 61,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/ffmpeg-v1.8.3-linux-armv7l.zip",
+                      "size": 915084
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.3-linux-arm.zip",
+                      "downloadCount": 57,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/ffmpeg-v1.8.3-linux-arm.zip",
+                      "size": 915084
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-linux-mips64el.zip",
+                      "downloadCount": 721,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-linux-mips64el.zip",
+                      "size": 59324251
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.3-linux-mips64el.zip",
+                      "downloadCount": 62,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/ffmpeg-v1.8.3-linux-mips64el.zip",
+                      "size": 965871
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-darwin-x64.zip",
+                      "downloadCount": 25866,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-darwin-x64.zip",
+                      "size": 48339800
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-darwin-x64-symbols.zip",
+                      "downloadCount": 90,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-darwin-x64-symbols.zip",
+                      "size": 58768668
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-darwin-x64-dsym.zip",
+                      "downloadCount": 113,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-darwin-x64-dsym.zip",
+                      "size": 470902220
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.3-darwin-x64.zip",
+                      "downloadCount": 67,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/ffmpeg-v1.8.3-darwin-x64.zip",
+                      "size": 1010080
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-mas-x64.zip",
+                      "downloadCount": 946,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-mas-x64.zip",
+                      "size": 47377191
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-mas-x64-symbols.zip",
+                      "downloadCount": 57,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-mas-x64-symbols.zip",
+                      "size": 58656663
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-api.json",
+                      "downloadCount": 1666,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-api.json",
+                      "size": 659579
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron.d.ts",
+                      "downloadCount": 89,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron.d.ts",
+                      "size": 355202
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-mas-x64-dsym.zip",
+                      "downloadCount": 60,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-mas-x64-dsym.zip",
+                      "size": 467438251
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.3-mas-x64.zip",
+                      "downloadCount": 62,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/ffmpeg-v1.8.3-mas-x64.zip",
+                      "size": 1010080
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-win32-ia32.zip",
+                      "downloadCount": 6206,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-win32-ia32.zip",
+                      "size": 41899049
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-win32-ia32-symbols.zip",
+                      "downloadCount": 198,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-win32-ia32-symbols.zip",
+                      "size": 29524174
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-win32-ia32-pdb.zip",
+                      "downloadCount": 201,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-win32-ia32-pdb.zip",
+                      "size": 314263896
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.3-win32-ia32.zip",
+                      "downloadCount": 81,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/ffmpeg-v1.8.3-win32-ia32.zip",
+                      "size": 834196
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-win32-x64.zip",
+                      "downloadCount": 30798,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-win32-x64.zip",
+                      "size": 50297002
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-win32-x64-symbols.zip",
+                      "downloadCount": 237,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-win32-x64-symbols.zip",
+                      "size": 22592358
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-win32-x64-pdb.zip",
+                      "downloadCount": 270,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-win32-x64-pdb.zip",
+                      "size": 313566155
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.3-win32-x64.zip",
+                      "downloadCount": 126,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/ffmpeg-v1.8.3-win32-x64.zip",
+                      "size": 850867
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-linux-x64.zip",
+                      "downloadCount": 59698,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-linux-x64.zip",
+                      "size": 47217898
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "electron-v1.8.3-linux-x64-symbols.zip",
+                      "downloadCount": 71,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/electron-v1.8.3-linux-x64-symbols.zip",
+                      "size": 49961872
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "ffmpeg-v1.8.3-linux-x64.zip",
+                      "downloadCount": 69,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/ffmpeg-v1.8.3-linux-x64.zip",
+                      "size": 978991
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "SHASUMS256.txt",
+                      "downloadCount": 104924,
+                      "downloadUrl": "https://github.com/electron/electron/releases/download/v1.8.3/SHASUMS256.txt",
+                      "size": 3430
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "pageInfo": {
+          "endCursor": "Y3Vyc29yOnYyOpK5MjAxOC0wMy0wNVQxNzo0MDoxMC0wODowMM4Al8G0",
+          "hasNextPage": true
+        }
+      },
+      "collaborators": {
+        "nodes": [
+          {
+            "name": "Hubot",
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/480938?v=4",
+            "bio": null,
+            "company": "GitHub",
+            "contributedRepositories": {
+              "nodes": [
+                {
+                  "nameWithOwner": "github/dmca"
+                },
+                {
+                  "nameWithOwner": "github/pages-gem"
+                },
+                {
+                  "nameWithOwner": "piki/demo-repo"
+                },
+                {
+                  "nameWithOwner": "piki/letters"
+                },
+                {
+                  "nameWithOwner": "appleton/sausages"
+                }
+              ]
+            }
+          },
+          {
+            "name": "Electron Bot",
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/18403005?v=4",
+            "bio": "Helping out @electron however I can.",
+            "company": "GitHub",
+            "contributedRepositories": {
+              "nodes": [
+                {
+                  "nameWithOwner": "electron/electron"
+                },
+                {
+                  "nameWithOwner": "electron/electronjs.org"
+                },
+                {
+                  "nameWithOwner": "electron/electron-apps"
+                },
+                {
+                  "nameWithOwner": "electron/download-stats"
+                },
+                {
+                  "nameWithOwner": "electron/i18n"
+                },
+                {
+                  "nameWithOwner": "electron/electron-releases"
+                },
+                {
+                  "nameWithOwner": "electron-userland/electron-prebuilt"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}
